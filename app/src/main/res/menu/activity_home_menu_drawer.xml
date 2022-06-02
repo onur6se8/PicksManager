@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/activity_home_drawer_news"
+            android:icon="@android:drawable/btn_star_big_on"
+            android:title="@string/bonus" />
+    </group>
+
+    <item
+        android:id="@+id/activity_home_drawer_prof"
+        android:title="@string/mon_compte">
+        <menu>
+            <group android:checkableBehavior="single">
+            </group>
+        </menu>
+    </item>
+
+</menu>

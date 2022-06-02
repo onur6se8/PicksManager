@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977981916698",
+    "firebase_url": "https://mon-poker.firebaseio.com",
+    "project_id": "mon-poker",
+    "storage_bucket": "mon-poker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977981916698:android:513eb6920b9b6c145c33a3",
+        "android_client_info": {
+          "package_name": "com.jeupouradulte.monpoker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977981916698-lc5l4qql5129cbjiotg8n1n8p6l1n3d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeupouradulte.monpoker",
+            "certificate_hash": "fed491f27d10a0eac7dd8e67266268ef39f847db"
+          }
+        },
+        {
+          "client_id": "977981916698-tt3k4mnb8m09lgl6brdu4glkbrmm07vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSmjMW4cp56wOGG6FJObtiF_exueNWxGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977981916698-tt3k4mnb8m09lgl6brdu4glkbrmm07vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

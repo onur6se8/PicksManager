@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#039BE5</color>
+    <color name="colorPrimaryDark">#0C354C</color>
+    <color name="colorAccent">#FFA000</color>
+    <color name="colorError">#FF5252</color>
+    <color name="colorYelow">#FFEB3B</color>
+    <color name="colorPerso">#0D314C</color>
+    <color name="noiregris">#252525</color>
+    <color name="black">#000000</color>
+    <color name="colorGreen">#6BB18C</color>
+    <color name="colorSandLight">#ECDAAF</color>
+    <color name="colorSand">#EBCB94</color>
+    <color name="colorProPrimary">#066FA8</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <array name="colorPagesViewPager">
+        <item>#EDD9CF</item>
+        <item>#BED4D6</item>
+        <item>#ADCEB7</item>
+        <item>#F7CF8B</item>
+        <item>#FD96A2</item>
+    </array>
+</resources>
